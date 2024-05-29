@@ -1,0 +1,11 @@
+/* src/components/Obstacle.css */
+.obstacle {
+    position: absolute;
+    bottom: 0;
+  }
+  
+  .obstacle img {
+    width: 30px;
+    height: 50px;
+  }
+  

@@ -1,0 +1,17 @@
+/* src/components/Dino.css */
+.dino {
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+    transition: bottom 0.6s;  /* Increased from 0.3s to 0.6s */
+  }
+  
+  .dino img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .jumping {
+    bottom: 200px;
+  }
+  
